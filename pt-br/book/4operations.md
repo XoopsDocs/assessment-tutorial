@@ -6,6 +6,8 @@ O primeiro passo a ser tomado para se criar uma interação entre o aluno e o pr
 
 Para se entender como o módulo funciona há de se entender alguns termos . A prova é formada por perguntas, documentos, resultados e atributos próprios. A primeira coisa a se fazer para criar a prova é cadastrar os atributos próprios desta. Veja a tela de cadastro e sua explicação:
 
+![](../assets/telaprova1.png)
+
 Tela de cadastro dos atributos principais da prova
 
 Item 1 : Uma ligação direta com a parte do aluno , onde o aluno encontra as provas.
@@ -49,6 +51,8 @@ Depois de ter cadastrado os dados básicos da prova você poderá cadastrar as p
 4.c Cadastrando os documentos da prova
 
 Os documentos que você irá cadastrar no módulo deve servir de referência para algumas perguntas. Questões por exemplo de interpretação de texto , requerem uma funcionalidade assim. Para se acessar o formulário de envio dessas informações clique em enviar documentos ou role a barra de rolagem a direita de seu browser para encontrá-lo. O formulário exibe além de seus campos básicos(detalhamento abaixo) um campo onde você pode escolher com o botão esquerdo do mouse e a tecla ctrl pressinados ao mesmo tempo as perguntas que vão apresentar esta pergunta antes.
+
+![](../assets/telaprova2.png)
 
 Janela de edição das provas
 
