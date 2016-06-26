@@ -1,8 +1,8 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module Nivelamento
-#### for XOOPS 2.5.8
+# Module XXX
+#### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
             

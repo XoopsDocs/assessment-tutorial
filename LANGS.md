@@ -1,5 +1,5 @@
 * [English](en)
-
+* [Português](pt-br)
 
 <!--
 * [Deutsch](de)
