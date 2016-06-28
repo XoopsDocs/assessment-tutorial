@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Assessment Module
+# Module Assessment
 #### for XOOPS 2.5.8
       
 ![logoModule.png](assets/logoModule.png)
