@@ -1,6 +1,6 @@
 #Introduction:
 
-The Nivelamento module provides both teacher and student, a pleasant and intuitive interface for performing tests. The student is in the ease of a navigation bar that marks the questions he has answered the security search in carrying out the test. The possibility of returning in a question and even change your previous response sets up an unprecedented usability of this module. Teacher hand, small details such as a feature that lets you clone an existing proof for not having rework retype it characterize the uniqueness of this tool. We hope you enjoy this tool and find their questions answered in this manual.
+The Assessment module provides both teacher and student, a pleasant and intuitive interface for performing tests. The student is in the ease of a navigation bar that marks the questions he has answered the security search in carrying out the test. The possibility of returning in a question and even change your previous response sets up an unprecedented usability of this module. Teacher hand, small details such as a feature that lets you clone an existing proof for not having rework retype it characterize the uniqueness of this tool. We hope you enjoy this tool and find their questions answered in this manual.
 
 Marcello Brandão
 
