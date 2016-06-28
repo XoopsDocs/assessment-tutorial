@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module enables you to create questions, answers and group them all together to create an exam/assessment
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the Assessment Module (Admin side)*
